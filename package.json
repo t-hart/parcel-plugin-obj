@@ -1,0 +1,15 @@
+{
+  "name": "parcel-plugin-obj",
+  "version": "1.0.0",
+  "description": "An obj parser plugin for parcel. Made for PG6200 Graphics Programming.",
+  "main": "./src/index.js",
+  "author": "Thomas Hartmann",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "parcel-bundler": "^1.9.7"
+  },
+  "dependencies": {
+    "parcel-assert-bundle-tree": "^1.0.0"
+  }
+}
