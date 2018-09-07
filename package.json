@@ -11,7 +11,9 @@
   },
   "devDependencies": {
     "jest": "^23.5.0",
-    "parcel-assert-bundle-tree": "^1.0.0",
+    "parcel-assert-bundle-tree": "^1.0.0"
+  },
+  "dependencies": {
     "parcel-bundler": "^1.9.7"
   }
 }
