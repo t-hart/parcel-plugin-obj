@@ -1,6 +1,6 @@
 {
   "name": "@t-hart/parcel-plugin-obj",
-  "version": "1.0.2",
+  "version": "1.0.2-rc1",
   "description": "An obj parser plugin for parcel. Made for PG6200 Graphics Programming.",
   "main": "./src/index.js",
   "author": "Thomas Hartmann",
