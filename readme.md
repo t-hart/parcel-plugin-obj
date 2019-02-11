@@ -4,7 +4,7 @@ A naive .obj parser plugin for Parcel written as part of an assignment in graphi
 
 ## Installation:
 ```sh
-npm -i @t-hart/parcel-plugin-obj
+npm i @t-hart/parcel-plugin-obj
 ```
 
 ## Usage
